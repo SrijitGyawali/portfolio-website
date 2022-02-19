@@ -552,13 +552,13 @@ p{
     color: crimson;
 }
 #footer .social-icon {
-	display: flex;
+	display: f;
 	margin-bottom: 20px;
 }
 #footer .social-item {
 	height: 50px;
 	width: 50px;
-	margin: 0 5px;
+	margin: 0 10px;
 }
 #footer .social-item img {
 	filter: grayscale(1);
