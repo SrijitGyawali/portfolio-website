@@ -1,10 +1,11 @@
 from turtle import *
-color('cyan')
-bgcolor('black')
-hideturtle()
-speed(11)
-n=1
-while True:
-    circle(n,88)
-    n=n+1
-    left(179)
+color("red")
+begin_fill()
+pensize(3)
+left(50)
+forward(133)
+circle(50,200)
+right(140)
+circle(50,200)
+forwad(133)
+end_fill()
